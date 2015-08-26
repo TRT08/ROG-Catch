@@ -1,9 +1,6 @@
 setwd("F:/DATA/SLBE/R scripts/ROG CPUE/")#set directory
 
-###more test!!!!####
-###GITHUB IS SO FUN!!!!####
-####TEST#####
-#####TEST!!!!!!!!!!!!!!!!!!$$$####
+##TESTING THE GITHUB!###
 
 library(doBy)
 library(reshape)
